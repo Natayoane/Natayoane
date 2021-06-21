@@ -2,9 +2,9 @@
 
 ### Hi, I am Natalia Tayoane 👋
 
-<!-- <h1 align="center">
-  <img alt="My" title="#My" src="./assets/banner.png" />
-</h1> -->
+<h1 align="center">
+  <img alt="My" title="#My" src="./assets/banner.gif" />
+</h1>
 
 I'm 20 years old, 👨‍💻 I'm a fullstack development analyst and I also love designing layouts for web and mobile. 🧐 I am always looking to improve my knowledge.
 
