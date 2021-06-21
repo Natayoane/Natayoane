@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Hi, I am Natalia Tayoane 👋
 
 <h1 align="center">
