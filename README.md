@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia Tayoane</h1>
-<h3 align="center">A Software Engineer on Pismo from Brazil</h3>
+<h3 align="center">A Software Engineer on Mercado Livre from Brazil</h3>
 
-- 🔭 I am currently doing my MBA in Software Engineering **FIAP**
+- 🔭 Postgraduate in the MBA in Software Engineering **FIAP**
 
 - 📫 How to reach me **nataliatayoane@gmail.com**
 
